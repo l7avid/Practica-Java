@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÄ¬žþÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(£ýÚœûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°çû„
+Q	java:S125"<This block of commented-out lines of code should be removed.(ø¦÷†
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(›Ü©ùÿÿÿÿ

@@ -1,0 +1,16 @@
+
+{
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "firstGivenWord".(‚¾ö
+‚
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "secondGivenWord".(íïøÑþÿÿÿÿ
+ƒ
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "lengthDifference".(›ÃãÙÿÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÔž”þÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‰‘û‚þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò„ö¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¡´÷ÿÿÿÿÿ
+Z
+java:S1854%"?Remove this useless assignment to local variable "greaterWord".(‹‚¯ÿýÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(‚Ü±ô

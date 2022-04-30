@@ -1,0 +1,7 @@
+
+y
+java:S1488
+"cImmediately return this expression instead of assigning it to the temporary variable "givenNumber".(èçô°
+@
+java:S5411"*Use the primitive boolean expression here.(ü≤¿Ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖﬁÌ‰

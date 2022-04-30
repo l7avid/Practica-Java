@@ -1,0 +1,29 @@
+
+|
+java:S1488
+"aImmediately return this expression instead of assigning it to the temporary variable "givenName".(¤ıçşÿÿÿÿ
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "givenAge".(µ°¤ˆùÿÿÿÿ
+y
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "givenGender".(Àõ¯Ì
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "givenHeight".(‡†–Ùùÿÿÿÿ
+y
+java:S1488&"cImmediately return this expression instead of assigning it to the temporary variable "givenWeight".(ƒƒü 
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(òÙŸÑÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãõ¯Úıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óê³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯‰«Àüÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(äš¢ºúÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(œ­şúÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(úà¶Ïùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ëéö¨ûÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(¶¸„Èıÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Œœ†ªüÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ëÌ¨†
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ğÌÀòùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(¥ÃÃûÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(¸×¨ùÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(äË§
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(úš˜Õ

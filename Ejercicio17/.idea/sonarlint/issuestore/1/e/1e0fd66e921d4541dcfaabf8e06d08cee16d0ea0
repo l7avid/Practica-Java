@@ -1,0 +1,18 @@
+
+b
+java:S1192	"GDefine a constant instead of duplicating this literal "Blanco" 4 times.(ó©‰«ýÿÿÿÿ
+l
+java:S1104"VMake precioBase a static final constant or non-public and provide accessors if needed.(»¹—”
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®þôûÿÿÿÿ
+s
+java:S1104"]Make consumoEnergetico a static final constant or non-public and provide accessors if needed.(ÓÉ¢ÿ
+f
+java:S1104"PMake peso a static final constant or non-public and provide accessors if needed.(ÉÆÒð
+l
+java:S1104"WMake precioFinal a static final constant or non-public and provide accessors if needed.(Ü“Ä
+q
+java:S1845X"[Rename method "precioFinal" to prevent any misunderstanding/clash with field "precioFinal".(Øÿ‚ö
+]	java:S125Y"<This block of commented-out lines of code should be removed.(£ˆÕÍÿÿÿÿÿ8·¾÷Å‡0
+6	java:S131\""Add a default case to this switch.(Ú¬ñ,
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(Ñ»µÚøÿÿÿÿ8Ù½‡Æ‡0

@@ -1,0 +1,15 @@
+
+_
+java:S6208 "CMerge the previous cases into this one using comma-separated label.(ÒñŠ{8ÀˆŞ›†0
+D
+java:S2189
+""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8–ÛŞ›†0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤‡¶ı
+H
+java:S6126"2Replace this String concatenation with Text block.(¤‡¶ı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌîõÛÿÿÿÿÿ
+m	java:S128""LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ8òîã›†0
+g	java:S128 "LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{8ÖˆŞ›†0
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(şÊ¶=8ÖˆŞ›†0
+]
+java:S1128";Remove this unused import 'java.security.interfaces.ECKey'.(•ãûÿÿÿÿ8´ˆá›†0

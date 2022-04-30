@@ -1,0 +1,10 @@
+
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "givenPhrase".(¨ÌÊ§üÿÿÿÿ
+…
+java:S1488"oImmediately return this expression instead of assigning it to the temporary variable "refactoredDefaultPhrase".(ˆê´±
+y
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "finalPhrase".(¦—¯
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èÎô–ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç¢Œƒşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šÜñ²

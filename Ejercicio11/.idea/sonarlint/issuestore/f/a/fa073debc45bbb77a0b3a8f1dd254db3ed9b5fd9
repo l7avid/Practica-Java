@@ -1,0 +1,18 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(©é¢
+J
+java:S3740E"/Provide the parametrized type for this generic.(‚«Ãàÿÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬…š‡
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "givenPhrase".(¨ÌÊ§üÿÿÿÿ
+„
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "phraseToUpperCase".(ø°öñÿÿÿÿÿ
+„
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "givenPhraseLength".(½³‰ïÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Çä•…ûÿÿÿÿ
+<	java:S131 ""Add a default case to this switch.(àşÔøÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ääçá
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Í·ıËıÿÿÿÿ

@@ -1,0 +1,18 @@
+
+h	java:S116
+"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
+X
+java:S1854,"=Remove this useless assignment to local variable "imcResult".(ù®’¿şÿÿÿÿ
+S
+java:S1854/"=Remove this useless assignment to local variable "imcResult".(Ô™âõ
+S
+java:S18542"=Remove this useless assignment to local variable "imcResult".(§ã¥•
+I
+java:S1481*".Remove this unused "imcResult" local variable.(„ï™ùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(˜±©š
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¤–ï 
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ú¯Ùù
+9
+java:S2119Z"Save and re-use this "Random".(¹ ³•úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
